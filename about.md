@@ -12,4 +12,4 @@ I use this space to document what I'm learning, explore ideas, and share lessons
 
 My interests include web development, digital products, business, and turning ideas into something useful.
 
-[Home](/) | [GitHub](https://github.com/Nath023)
+[Home](https://nath023.github.io/) · [GitHub](https://github.com/Nath023)
