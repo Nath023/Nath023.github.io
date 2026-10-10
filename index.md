@@ -24,4 +24,4 @@ This is my personal space for essays, notes, experiments, and lessons learned al
 
 ---
 
-[About](about.md) · [GitHub](https://github.com/Nath023)
+[About]({{ '/about/' | relative_url }}) | [GitHub](https://github.com/Nath023)
